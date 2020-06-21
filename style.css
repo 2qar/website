@@ -1,0 +1,14 @@
+* {
+	color: white;
+}
+body {
+	background-color: #262626;
+}
+img {
+	display: block;
+	width: 20em;
+	margin: auto;
+}
+div {
+	margin: auto;
+}
