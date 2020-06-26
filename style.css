@@ -1,14 +1,38 @@
 * {
 	color: white;
-}
-body {
+	font-family: sans-serif;
 	background-color: #262626;
+	text-align: center;
 }
+
 img {
-	display: block;
-	width: 20em;
+	display: inline-block;
 	margin: auto;
+	width: 15em;
+	margin-right: 2em;
 }
-div {
-	margin: auto;
+
+img#ogdog {
+	width: 8em;
+	margin-right: 0;
+}
+div#links, table#title {
+	margin: 0 auto;
+}
+
+div#links {
+	width: 80%;
+}
+
+table#links {
+	width: 80%;
+	margin: 0 auto;
+}
+
+table#title {
+	margin-bottom: 2em;
+}
+
+a {
+	text-decoration: none;
 }
