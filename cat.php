@@ -27,14 +27,6 @@ button {
 	margin-top: 1em;
 	text-align: left;
 }
-div#color {
-	width: 200px;
-	height: 200px;
-	margin: 0 auto;
-	margin-top: 2em;
-	background-color: teal;
-	box-shadow: 1em 1em white;
-}
 p {
 	font-size: 16px;
 	margin-bottom: 1em;
